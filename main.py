@@ -16,7 +16,7 @@ else:
 if score >= 20:
         print("Bravo! You are one of the smartest folks on earth.")
 else:
-    print("Ooops! You need need to put up some work buddy!")
+    print("Ooops! You need to put up some work buddy!")
 
 print("*** QUIZ HAS ENDED. YOUR TOTAL SCORE IS {}. THANK YOU FOR YOUR TIME!".format(score))
 
