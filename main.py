@@ -1,3 +1,5 @@
+#This is a quiz to test how smart you are. Answers are case sensitive. Please use first letter Caps.
+
 score = 0
 
 question_1 = input("Which continent does Nigeria belong to? ")
